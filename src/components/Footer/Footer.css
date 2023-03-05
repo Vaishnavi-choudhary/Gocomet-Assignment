@@ -1,0 +1,16 @@
+.shopx_footer{
+    background-color: #fff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 50px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+.shopx_footer p{
+    font-size: 15px;
+    font-weight: 400;
+}

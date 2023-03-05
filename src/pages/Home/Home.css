@@ -1,0 +1,9 @@
+.shopx_home{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100%;
+    overflow: auto;
+    margin-bottom: 50px;
+}   

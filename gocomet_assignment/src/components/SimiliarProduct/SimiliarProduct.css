@@ -1,0 +1,14 @@
+.shopx_similiar_product{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;    
+    padding: 10px;
+    overflow: auto;
+}
+.shopx_similiar_product_container h2{
+    font-size: 16px;
+    margin : 20px 30px;
+}
